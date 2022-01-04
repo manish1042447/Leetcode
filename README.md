@@ -1,4 +1,4 @@
 # Leetcode
 Activity details performed on LeetCode platform
 
-<img src="Leetcode/4Jan_2k22.PNG">
+<img src="https://github.com/manish1042447/Leetcode/blob/main/17th_december_2k21.PNG">
